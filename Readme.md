@@ -1,3 +1,15 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [frmMain.cs](./CS/frmMain.cs) (VB: [frmMain.vb](./VB/frmMain.vb))
+* [MyBackButtonViewInfo.cs](./CS/MyWizardControl/MyNextButton/MyBackButtonViewInfo.cs) (VB: [MyBackButtonViewInfo.vb](./VB/MyWizardControl/MyNextButton/MyBackButtonViewInfo.vb))
+* [MyButtonPainter.cs](./CS/MyWizardControl/MyNextButton/MyButtonPainter.cs) (VB: [MyButtonPainter.vb](./VB/MyWizardControl/MyNextButton/MyButtonPainter.vb))
+* [MyNextButton.cs](./CS/MyWizardControl/MyNextButton/MyNextButton.cs) (VB: [MyNextButton.vb](./VB/MyWizardControl/MyNextButton/MyNextButton.vb))
+* [MyWizardAeroModel.cs](./CS/MyWizardControl/MyWizardAeroModel.cs) (VB: [MyWizardAeroModel.vb](./VB/MyWizardControl/MyWizardAeroModel.vb))
+* [MyWizardControl.cs](./CS/MyWizardControl/MyWizardControl.cs) (VB: [MyWizardControl.vb](./VB/MyWizardControl/MyWizardControl.vb))
+* [MyWizardViewInfo.cs](./CS/MyWizardControl/MyWizardViewInfo.cs) (VB: [MyWizardViewInfo.vb](./VB/MyWizardControl/MyWizardViewInfo.vb))
+* [Program.cs](./CS/Program.cs) (VB: [Program.vb](./VB/Program.vb))
+<!-- default file list end -->
 # How to create a custom model for the WizardControl
 
 
