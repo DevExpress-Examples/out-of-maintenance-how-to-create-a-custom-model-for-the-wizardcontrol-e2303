@@ -102,7 +102,7 @@ Namespace DevExpress.XtraWizard.Demos
 			' pictureEdit1
 			' 
 			Me.pictureEdit1.Dock = System.Windows.Forms.DockStyle.Fill
-			Me.pictureEdit1.EditValue = My.Resources.picture_post_card
+			Me.pictureEdit1.EditValue = Global.Resources.picture_post_card
 			Me.pictureEdit1.Location = New System.Drawing.Point(0, 0)
 			Me.pictureEdit1.Name = "pictureEdit1"
 			Me.pictureEdit1.Properties.AllowFocused = False
